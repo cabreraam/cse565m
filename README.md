@@ -14,8 +14,14 @@ seo:
 Washington University in St. Louis<br />
 Fall 2024
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Welcome! This is a graduate level CSE course that introduces the design of hardware accelerators for a specific application or class of applications.
+In this class, we will use Field Programmable Gate Arrays (FPGAs) as the medium for our hardware designs, and we will use high-level synthesis (HLS) -- in contrast to low-level RTL -- to author the designs.
+The goals of the class are to
+- take applications of interest from algorithm to hardware design
+- develop intuition for performant hardware architectures designed using HLS
+- learn the fundamentals of the state of the art (SOTA) tooling for HLS
 
+Useful links:
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
@@ -41,3 +47,19 @@ Just the Class has been used by instructors at Stanford University ([CS 161](htt
 ### Local development environment
 
 Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Preview dark color scheme';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Return to the light side';
+  }
+});
+</script>
