@@ -1,9 +1,9 @@
 ---
-name: Really Evil Kevin
+name: Star Student
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+website: cse.wustl.edu
+photo: wustl_seal.png
 ---
 
 I like teaching Computer Science!

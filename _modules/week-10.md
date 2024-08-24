@@ -1,11 +1,11 @@
 ---
-title: 'Week 02: TBD'
+title: 'Week 10: TBD'
 ---
 
-Sep 03 
+Nov 05
 : [First Day](#)
   : 
 
-Sep 05 
+Nov 07
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
