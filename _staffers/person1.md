@@ -1,9 +1,11 @@
+<!---
 ---
-name: Star Student
+name: No one :(
 role: Teaching Assistant
-email: me@example.com
+email: star_student@wustl.biz
 website: cse.wustl.edu
 photo: wustl_seal.png
 ---
 
-I like teaching Computer Science!
+Nothing to see here.
+-->
