@@ -93,7 +93,7 @@
     }
 
     &.lecture {
-      background-color: $grey-dk-000;
+      background-color: $wustl-green;
     }
 
     &.section {
@@ -102,6 +102,10 @@
 
     &.office-hours {
       background-color: $blue-000;
+    }
+    
+    &.amc-office-hour {
+      background-color: $wustl-red;
     }
   }
 }
