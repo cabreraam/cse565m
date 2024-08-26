@@ -21,36 +21,24 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: AMC Office Hour
-        start: 10:00 AM 
-        end: 11:00 AM
-        location: Zoom
   - name: Tuesday
     events:
       - name: Lecture
         start: 4:00 PM 
         end: 5:20 PM
-        location: TBD
+        location: Hillman 70
   - name: Wednesday
     events:
       - name: AMC Office Hour
-        start: 11:00 AM 
-        end: 12:00 PM
+        start: 4:00 PM 
+        end: 5:00 PM
         location: Zoom
   - name: Thursday
     events:
       - name: Lecture
         start: 4:00 PM 
         end: 5:20 PM
-        location: TBD
+        location: Hillman 70
   - name: Friday
     events:
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
 ---
