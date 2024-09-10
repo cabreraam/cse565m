@@ -1,11 +1,12 @@
 ---
-title: 'Week 03: TBD'
+title: 'Week 03: Using the Build/Compute Resources and Introduction to FIR Filters'
 ---
 
 Sep 10
-: [First Day](#)
-  : 
+: **Lecture**{: .label .label-purple }[Using the Build/Compute Resources](#)
+  : [](#)
+: **HW 1 Assigned**{: .label .label-green }
 
 Sep 12
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+: **Lecture**{: .label .label-purple }[Introduction to FIR Filters](#)
+  : [Ch 2 - ](../assets/pp4fpgas.pdf)

@@ -1,23 +1,12 @@
 ---
-title: Introduction to Java
+title: 'Week 01: TBD'
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Aug 27
+: **Lecture**{: .label .label-purple }[Welcome and Class Logistics](#)
+  : [Zoom Recording](https://wustl.zoom.us/rec/share/iMvoyfFxh81HtjSwCHLpOhJfhy9r6T9YyHtKboGZXFO3ZxTfq8mIOhRog4x2-1mw.uFEf7R015gVzADD7), [Lecture Slides](../assets/2024_08_27-cse565m_lec01.pdf)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Aug 29
+: [No class; Anthony @ LBNL](https://sites.google.com/view/arch-design-ecosystems/home)
+  : []()
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
