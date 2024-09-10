@@ -28,10 +28,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Piazza:
+    - 'https://piazza.com/class/m05enjpa30y15v/'
+  GradeScope:
+    - 'https://www.gradescope.com/courses/862664'
   WUSTL CSE:
     - 'https://cse.wustl.edu/'
-  Piazza:
-    - 'https://piazza.com/'
 footer_content:
 
 # Collections for website data
@@ -47,7 +49,7 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      height: 250 
+      height: 250
       subpath: '/assets/images/'
       width: 250
   - scope:
