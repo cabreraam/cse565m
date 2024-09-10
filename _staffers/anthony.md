@@ -6,8 +6,7 @@ email: acabrera AT wustl DOT edu
 website: https://cabreraam.github.io/
 photo: amc-profile.png
 meta:
-  In-person Office Hour: "Wednesday 11AM"
-  Virtual Office Hour: "Monday 10AM"
+  Virtual Office Hour: "Wednesday 4PM"
 ---
 
 [Schedule an appointment](mailto:acabrera@wustl.edu){: .btn .btn-outline }
