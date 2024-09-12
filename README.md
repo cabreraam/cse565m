@@ -23,11 +23,11 @@ The goals of the class are to
 
 <!---
 Useful links:
-<!--- - [announcements](announcements.md), -->
+<!--- - [announcements](announcements.md),
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
 - and a weekly [schedule](schedule.md).
-
+-->
 <!---
 Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
 
