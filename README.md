@@ -21,8 +21,9 @@ The goals of the class are to
 - develop intuition for performant hardware architectures designed using HLS
 - learn the fundamentals of the state of the art (SOTA) tooling for HLS
 
+<!---
 Useful links:
-<!--- - [announcements](announcements.md), --->
+<!--- - [announcements](announcements.md), -->
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
 - and a weekly [schedule](schedule.md).

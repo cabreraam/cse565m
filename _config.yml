@@ -20,6 +20,7 @@ author: Anthony Cabrera
 #baseurl: '/cse565m' # the subpath of your site, e.g. /blog
 url: 'https://cabreraam.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+include: ["_useful"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.9.0
@@ -42,6 +43,7 @@ collections:
   modules:
   schedules:
   announcements:
+  useful:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -67,6 +69,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: useful
+    values:
+      layout: useful
 
 compress_html:
   clippings: all

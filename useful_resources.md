@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Useful Github Repos
-description: Useful Github Repos
+title: Useful Resources
+description: Resources
 ---
 
 # Useful Github Repos
@@ -15,3 +15,8 @@ description: Useful Github Repos
 + [Class Bibliography](https://github.com/cabreraam/WUSTL-CSE565M-Bibliography/)
 
 + [Fork of Class Textbook](https://github.com/cabreraam/pp4fpgas)
+
+# Other Useful Stuff
+
++ [SSH Into Build Server](./_useful/ssh_into_build_server.md)
+
