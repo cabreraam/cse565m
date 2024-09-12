@@ -10,4 +10,4 @@ Sep 10
 
 Sep 12
 : **Lecture**{: .label .label-purple }[Introduction to FIR Filters](#)
-  : [Ch 2 - ](../assets/pp4fpgas.pdf)
+  : [Ch 2.1 - 2.3](../assets/pp4fpgas.pdf)
