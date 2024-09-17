@@ -8,7 +8,7 @@ Sep 17
 : **Lab 0 Due**{: .label .label-red }
   : [](#)
 : **Lab 1 Assigned**{: .label .label-green }
-  : [](#)
+  : [Lab 1](../assets/2024_09_17-lab1.pdf)
 : **Find Research Article**{: .label .label-green }
   : [](#)
 
