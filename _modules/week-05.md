@@ -1,17 +1,11 @@
 ---
-title: 'Week 05: TBD'
+title: 'Week 05: FIR Filters and HW Design Intros'
 ---
 
 Sep 24
-: [TBD](#)
-  : [](#)
+: **Lecture**{: .label .label-purple }[Introduction to FIR Filters ](#)
+  : [Ch 2.1 - 2.5](../assets/pp4fpgas.pdf)
 
 Sep 26
-: [Student Presentations](#)
-  : [](#)
-: [Paper Title: Student](#)
-  : [Slides](#)
-: [Paper Title: Student](#)
-  : [Slides](#)
-: [Paper Title: Student](#)
-  : [Slides](#)
+: **Lecture**{: .label .label-purple }[Introduction to HW Design](#)
+  : [Ch 2.6 - 2.10](../assets/pp4fpgas.pdf)
