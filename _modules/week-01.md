@@ -1,5 +1,5 @@
 ---
-title: 'Welcome to CSE565M!'
+title: 'Week 01: Welcome to CSE565M!'
 ---
 
 Aug 27
