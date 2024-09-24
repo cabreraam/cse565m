@@ -9,5 +9,7 @@ Sep 10
   : [Lab 0](https://www.gradescope.com/courses/862664)
 
 Sep 12
-: **Lecture**{: .label .label-purple }[Introduction to FIR Filters](#)
-  : [Ch 2.1 - 2.3](../assets/pp4fpgas.pdf)
+: **Lecture**{: .label .label-purple }[Where to find manuscripts for presetnation](#)
+  : [Relevant Piazza Post](https://piazza.com/class/m05enjpa30y15v/post/11)
+: **Lecture**{: .label .label-purple }[Revisiting the Hello World Example](#)
+  : [Relevant Directory in Repo](https://github.com/cabreraam/Vitis_Accel_Examples/tree/main/hello_world)
