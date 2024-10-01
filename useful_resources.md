@@ -21,3 +21,5 @@ description: Resources
 + [SSH Into Build Server](./_useful/ssh_into_build_server.md)
 
 + [CloudLab Cluster Status](https://www.cloudlab.us/cluster-status.php)
+
++ [Crafting the Presentation](./_useful/crafting_the_presentation.md)
