@@ -1,5 +1,5 @@
 ---
-title: 'Week 13: TBD'
+title: 'Week 13: TBD/Student Presentations'
 ---
 
 Nov 19
@@ -7,5 +7,5 @@ Nov 19
   : [](#)
 
 Nov 21
-: [TBD](#)
+: [Student Presentations](#)
   : [](#)

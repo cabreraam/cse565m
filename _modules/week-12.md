@@ -1,5 +1,5 @@
 ---
-title: 'Week 12: TBD'
+title: 'Week 12: TBD/Student Presentations'
 ---
 
 Nov 12

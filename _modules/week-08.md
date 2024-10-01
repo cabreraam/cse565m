@@ -1,5 +1,5 @@
 ---
-title: 'Week 08: TBD'
+title: 'Week 08: TBD/Student Presentations'
 ---
 
 Oct 15
@@ -7,11 +7,11 @@ Oct 15
   : [](#)
 
 Oct 17
-: [Student Presentations](#)
+: Student Presentations
   : [](#)
-: [Paper Title: Student](#)
-  : [Slides](#)
-: [Paper Title: Student](#)
-  : [Slides](#)
-: [Paper Title: Student](#)
-  : [Slides](#)
+: [From JVM to FPGA Bridging Abstraction Hierarchy<br> via Optimized Deep Pipelining](#)
+  : [Chenyang Huang](#), [slides](#)
+: [Paper Title](#)
+  : [Jonathan Ko](#), [slides](#)
+: [Paper Title](#)
+  : [Owen Cromly](#), [slides](#)

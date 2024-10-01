@@ -7,11 +7,5 @@ Oct 01
   : [](#)
 
 Oct 03
-: [Student Presentations](#)
+: [TBD](#)
   : [](#)
-: [Paper Title: Student](#)
-  : [Slides](#)
-: [Paper Title: Student](#)
-  : [Slides](#)
-: [Paper Title: Student](#)
-  : [Slides](#)
