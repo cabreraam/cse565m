@@ -5,6 +5,7 @@ title: 'Week 08: Finish CORDIC/Student Presentations'
 Oct 15
 : [Finish CORDIC](#)
   : [Ch 3.4-3.6](../assets/2024_10_03-cse565m_lec06.pdf)
+: **NOTE**{: .label .label-red }[Class only 30 minutes today](#)
 
 Oct 17
 : Student Presentations
