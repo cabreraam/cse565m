@@ -15,3 +15,7 @@ Nov 07
   : [Renzi Liu](#), [slides](#)
 : [SmartSSD: FPGA Accelerated Near-Storage Data Analytics on SSD](https://ieeexplore.ieee.org/document/9141369)
   : [Haoyu Zhang](#), [slides](#)
+: **Final Project and Presentation Assigned**{: .label .label-green }
+  : [](#)
+: **Final Project Proposal Due**{: .label .label-red }
+  : [](#)
