@@ -7,5 +7,5 @@ Nov 19
   : [](#)
 
 Nov 21
-: [Student Presentations](#)
-  : [](#)
+: [EasyNet: 100 Gbps Network for HLS](https://ieeexplore.ieee.org/document/9556439)
+  : [Hussein Aljorani](#), [slides](#)
