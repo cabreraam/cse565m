@@ -7,7 +7,7 @@ description: Resources
 # Assignments
 
 ## Studios
-+ Verifying correctness after HW change (in progress)
++ [Studio 1](./assets/2024_10_10-studio1.pdf)
 ## Labs
 + [Lab 0](./assets/2024_09_10-lab0.pdf)
 + [Lab 1](./assets/2024_09_17-lab1.pdf)

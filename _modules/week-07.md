@@ -15,3 +15,5 @@ Oct 10
   : [Matthew Schlittler](#), [slides](#)
 : [EasyNet: 100 Gbps Network for HLS](https://ieeexplore.ieee.org/document/9556439)
   : [Hussein Aljorani](#), [slides](#)
+: **Studio 1 Assigned**{: .label .label-green }
+  : [Studio 1](../assets/2024_10_10-studio1.pdf)
