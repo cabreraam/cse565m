@@ -9,9 +9,9 @@ Oct 29
 Oct 31
 : Student Presentations
   : [](#)
-: [Exploiting the Correlation between Dependence Distance and Latency in Loop Pipelining for HLS](#)
+: [NERO: A Near High-Bandwidth Memory Stencil Accelerator for Weather Prediction Modeling](https://ieeexplore.ieee.org/document/9221526)
   : [Gabby Day](#), [slides](#)
-: [Accelerating Attention Mechanism on FPGAs based on Efficient Reconfigurable Systolic Array](#)
+: [Accelerating Attention Mechanism on FPGAs based on Efficient Reconfigurable Systolic Array](https://dl.acm.org/doi/pdf/10.1145/3549937)
   : [Jonathan Dunker](#), [slides](#)
-: [Paper Title](#)
+: [ThunderGP: HLS-based Graph Processing Framework on FPGAs](https://dl.acm.org/doi/abs/10.1145/3431920.3439290)
   : [William Yin](#), [slides](#)
