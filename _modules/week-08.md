@@ -20,13 +20,11 @@ Oct 15
 Oct 17
 : Student Presentations
   : [](#)
-: [A High Performance FPGA-based Accelerator for Large-scale Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7577308)
+: [~~A High Performance FPGA-based Accelerator for Large-scale Convolutional Neural Networks~~](https://ieeexplore.ieee.org/document/7577308)<br>Did not present
   : [Chenyang Huang](#), [slides](#)
-: [PASTA: Programming and Automation Support for Scalable Task-Parallel HLS Programs on Modern Multi-Die FPGAs](https://dl.acm.org/doi/full/10.1145/3676849)
+: [~~PASTA: Programming and Automation Support for Scalable Task-Parallel HLS Programs on Modern Multi-Die FPGAs~~](https://dl.acm.org/doi/full/10.1145/3676849)<br>Did not present
   : [Jonathan Ko](#), [slides](#)
-: [A 475 MHz Manycore FPGA Accelerator for RTL Simulation](https://dl.acm.org/doi/abs/10.1145/3626202.3637579)
+: [~~A 475 MHz Manycore FPGA Accelerator for RTL Simulation~~](https://dl.acm.org/doi/abs/10.1145/3626202.3637579)<br>Did not present
   : [Owen Cromly](#), [slides](#)
-: **Lab 2 Assigned**{: .label .label-green }
-  : [](#)
 : **Studio 1 Due**{: .label .label-red }
   : [](#)
