@@ -1,10 +1,10 @@
 ---
-title: 'Week 10: TBD/Student Presentations'
+title: 'Week 10: Discrete Fourier Transforms/Student Presentations'
 ---
 
 Oct 29
-: [TBD](#)
-  : [](#)
+: **LECTURE**{: .label .label-purple }[Discrete Fourier Transform pt. 2](#)
+  : [Ch 4.4-4.7](#)
 
 Oct 31
 : Student Presentations

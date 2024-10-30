@@ -4,7 +4,7 @@ title: 'Week 09: Discrete Fourier Transforms/Student Presentations'
 
 Oct 22
 : **LECTURE**{: .label .label-purple }[Discrete Fourier Transform pt. 1](#)
-  : [Ch 4.1-4.3](../assets/2024_10_01-cse565m_lec05.pdf)
+  : [Ch 4.1-4.3](../assets/2024_10_22-cse565m_lec07.pdf)
 : **Lab 2 Assigned**{: .label .label-green }
   : [](#)
 
