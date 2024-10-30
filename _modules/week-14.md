@@ -1,5 +1,5 @@
 ---
-title: 'Week 14: TBD'
+title: 'Week 14: Last Two Student Paper Presentations'
 ---
 
 Nov 26
