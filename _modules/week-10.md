@@ -4,7 +4,9 @@ title: 'Week 10: Discrete Fourier Transforms/Student Presentations'
 
 Oct 29
 : **LECTURE**{: .label .label-purple }[Discrete Fourier Transform pt. 2](#)
-  : [Ch 4.4-4.7](#)
+  : [Ch 4.4-4.7](../assets/pp4fpgas.pdf)
+: [](#)
+  : [Lecture Slides](../assets/2024_10_29-cse565m_lec08.pdf)
 
 Oct 31
 : Student Presentations

@@ -1,10 +1,12 @@
 ---
-title: 'Week 11: TBD/Student Presentations'
+title: 'Week 11: Finishing DFT/Student Presentations'
 ---
 
 Nov 05
-: [TBD](#)
-  : [](#)
+: **LECTURE**{: .label .label-purple }[Discrete Fourier Transform pt. 3](#)
+  : [Ch 4.7-4.8](../assets/pp4fpgas.pdf)
+: [](#)
+  : [Lecture Slides](../assets/2024_11_05-cse565m_lec09.pdf)
 
 Nov 07
 : Student Presentations

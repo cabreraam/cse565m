@@ -16,6 +16,6 @@ description: Resources
 + [Choosing a Paper](./assets/CSE565M_FL24_Selection_for_Paper_Presentation.pdf)
 + [Paper Presentation Slides](./assets/2024_10_29-paper_presentation_slides.pdf)
 ## Final Project
-+ [Final Project Proposal (In progress)](#)
++ [Final Project Proposal](./assets/2024_10_31-final_proj_proposal.pdf)
 + [Final Project Poster Presentation (In progress)](#)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Week 07: TBD/Student Presentations'
+title: 'Week 07: Finish CORDIC/Student Presentations'
 ---
 
 Oct 08

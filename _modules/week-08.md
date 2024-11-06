@@ -1,5 +1,5 @@
 ---
-title: 'Week 08: Finish CORDIC/Student Presentations'
+title: 'Week 08: Final Project Prep/Student Presentations'
 ---
 
 Oct 15
