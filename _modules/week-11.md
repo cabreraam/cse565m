@@ -11,8 +11,8 @@ Nov 05
 Nov 07
 : Student Presentations
   : [](#)
-: [Accelerating FPGA Prototyping through Predictive Model-Based HLS Design Space Exploration](https://dl.acm.org/doi/10.1145/3316781.3317754)
-  : [Carmen Bland Jr](https://github.com/washu-blandjr), [slides](#)
+: [PASTA: Programming and Automation Support for Scalable Task-Parallel HLS Programs on Modern Multi-Die FPGAs](https://dl.acm.org/doi/full/10.1145/3676849)
+  : [Jonathan Ko](#), [slides](#)
 : [Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks](https://dl.acm.org/doi/10.1145/2684746.2689060)
   : [Renzi Liu](#), [slides](#)
 : [SmartSSD: FPGA Accelerated Near-Storage Data Analytics on SSD](https://ieeexplore.ieee.org/document/9141369)
