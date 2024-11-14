@@ -6,7 +6,7 @@ Nov 12
 : **LECTURE**{: .label .label-purple }[Fast Fourier Transforms pt. 1](#)
   : [Ch 5.1-5.2](../assets/pp4fpgas.pdf)
 : [](#)
-  : [Lecture Slides](#)
+  : [Lecture Slides](../assets/2024_11_12-cse565m_lec10.pdf)
 
 Nov 14
 : [Student Presentations](#)
