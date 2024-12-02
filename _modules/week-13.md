@@ -3,8 +3,10 @@ title: 'Week 13: Guest Lecture by Dr. Marion Sudvarg/Student Presentations'
 ---
 
 Nov 19
-: [Guest Lecture: Dr. Marion Sudvarg](#)
-  : [Personal Website](https://www.sudvarg.com/)
+: [Guest Lecture: HLS-Based FPGA Data Preprocessing on the ADAPT High-Energy Astrophysics Telescope](#)
+  : [Dr. Marion Sudvarg](https://www.sudvarg.com/)
+: []()
+  : [slides](https://wustl.app.box.com/s/802ozkeo87ac6vyim8ncvcm2ld215jax)
 
 Nov 21
 : [Accelerating FPGA Prototyping through Predictive Model-Based HLS Design Space Exploration](https://dl.acm.org/doi/10.1145/3316781.3317754)
